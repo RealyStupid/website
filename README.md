@@ -1,6 +1,8 @@
 # WEBSITE LEARNING FULL STACK!
 this repo is made cuz i made the grave sin of asking to contribute to rootthisbox.org lol
 
+i'll be working on a website WHILE learning!
+
 here is the stack i need to learn:
 ### STACK
 | Learned            | Layer        | Technology                        |
